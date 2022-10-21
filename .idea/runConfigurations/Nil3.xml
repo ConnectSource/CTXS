@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Nil3" type="JetRunConfigurationType">
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="icu.dxlta.MainKt" />
+    <module name="Nil3.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="" />
+    </method>
+  </configuration>
+</component>

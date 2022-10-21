@@ -1,0 +1,17 @@
+# Compiled JAR
+/out/
+
+# Compiled classes
+build/
+
+
+# Gradle resources
+.gradle/
+gradle/
+
+# Dependencies
+lib/
+libs/
+
+# MacOS DS_Store
+.DS_Store
